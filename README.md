@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aleixs Dominguez</h1>
+<h1 align="center">Hi 👋, I'm Alexis Dominguez</h1>
 <h3 align="center">Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexisdguezr&label=Profile%20views&color=0e75b6&style=flat" alt="alexisdguezr" /> </p>
