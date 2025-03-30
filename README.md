@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexisdguezr&label=Profile%20views&color=0e75b6&style=flat" alt="alexisdguezr" /> </p>
 
-- 🔭 I’m currently working on [Daisies](daisies.mx)
-
 - 👨‍💻 All of my projects are available at [https://alexis-portfolio-2409.vercel.app/](https://alexis-portfolio-2409.vercel.app/)
 
 - 💬 Ask me about **React.js, Next.js,**
